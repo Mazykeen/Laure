@@ -665,3 +665,24 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.11.06-16.57.54:561][591]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
 [2020.11.06-16.58.11:694][ 58]LogActorFactory: Actor Factory created Cube
 [2020.11.06-16.58.12:129][108]LogActorFactory: Actor Factory created Cube
+[2020.11.06-16.59.47:523][528]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.11.06-17.01.18:051][797]LogSlate: Took 0.000187 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.11.06-17.01.27:130][824]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2020.11.06-17.01.27:132][824]Cmd: OBJ SAVEPACKAGE PACKAGE="/Temp/Untitled_1" FILE="../../../../../GitHub/Laure/Lost_In_The_House/Saved/Autosaves/Temp/Untitled_1_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.11.06-17.01.27:142][824]LogSavePackage: Moving '../../../../../GitHub/Laure/Lost_In_The_House/Saved/Untitled_1_Auto1AF38692C4ED6DE2757B3F0969D246230.tmp' to '../../../../../GitHub/Laure/Lost_In_The_House/Saved/Autosaves/Temp/Untitled_1_Auto1.umap'
+[2020.11.06-17.01.27:143][824]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.021
+[2020.11.06-17.01.27:143][824]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.021
+[2020.11.06-17.01.30:133][834]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.11.06-17.01.31:455][986]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.11.06-17.01.37:238][ 89]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.11.06-17.01.58:554][179]LogSlate: Window 'Save Level As' being destroyed
+[2020.11.06-17.01.58:585][179]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lost_In_The_House" FILE="../../../../../GitHub/Laure/Lost_In_The_House/Content/Lost_In_The_House.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.11.06-17.01.58:593][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2020.11.06-17.01.58:604][179]LogSavePackage: Moving '../../../../../GitHub/Laure/Lost_In_The_House/Saved/Lost_In_The_House3943AA8A42B15EAE2F577B84AA0026D4.tmp' to '../../../../../GitHub/Laure/Lost_In_The_House/Content/Lost_In_The_House.umap'
+[2020.11.06-17.01.58:609][179]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lost_In_The_House_BuiltData" FILE="../../../../../GitHub/Laure/Lost_In_The_House/Content/Lost_In_The_House_BuiltData.uasset" SILENT=true
+[2020.11.06-17.01.58:616][179]LogSavePackage: Moving '../../../../../GitHub/Laure/Lost_In_The_House/Saved/Lost_In_The_House_BuiltDataEC5DF031403C1747A600CD894FE272D7.tmp' to '../../../../../GitHub/Laure/Lost_In_The_House/Content/Lost_In_The_House_BuiltData.uasset'
+[2020.11.06-17.01.58:623][179]LogFileHelpers: Saving map 'Lost_In_The_House' took 0.064
+[2020.11.06-17.01.58:626][179]AssetCheck: New page: Asset Save: multiple assets
+[2020.11.06-17.01.58:626][179]LogContentValidation: Display: Validating World /Game/Lost_In_The_House.Lost_In_The_House
+[2020.11.06-17.01.58:626][179]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Lost_In_The_House_BuiltData.Lost_In_The_House_BuiltData
+[2020.11.06-17.01.58:631][179]LogSlate: Took 0.000130 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
