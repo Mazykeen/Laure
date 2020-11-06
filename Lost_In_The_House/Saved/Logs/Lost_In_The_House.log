@@ -658,3 +658,10 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.11.06-16.51.17:617][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000001 seconds (updated 0 objects)
 [2020.11.06-16.51.17:618][  0]LogContentStreaming: Texture pool size now 1000 MB
 [2020.11.06-16.51.39:513][732]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.11.06-16.55.47:564][ 92]LogSlate: Took 0.008172 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.11.06-16.56.27:505][361]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.11.06-16.57.30:897][549]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.11.06-16.57.31:391][608]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.11.06-16.57.54:561][591]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.11.06-16.58.11:694][ 58]LogActorFactory: Actor Factory created Cube
+[2020.11.06-16.58.12:129][108]LogActorFactory: Actor Factory created Cube
